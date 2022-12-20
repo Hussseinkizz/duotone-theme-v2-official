@@ -8,10 +8,10 @@
 	"version": "2.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Hussseinkizz/duotone"
+		"url": "https://github.com/Hussseinkizz/duotone-theme-v2-official"
 	},
 	"bugs": {
-		"url": "https://github.com/Hussseinkizz/duotone/issues"
+		"url": "https://github.com/Hussseinkizz/duotone-theme-v2-official/issues"
 	},
 	"engines": {
 		"vscode": "^1.38.0"
@@ -21,7 +21,7 @@
 		"publish": "vsce publish"
 	},
 	"galleryBanner": {
-		"color": "#0B1B33",
+		"color": "#462F86",
 		"theme": "dark"
 	},
 	"categories": [
@@ -32,6 +32,8 @@
 		"Dark Theme",
 		"New Theme",
 		"Purple",
+		"blue",
+		"green",
 		"Hussein Kizz"
 	],
 	"contributes": {
@@ -44,10 +46,6 @@
 		]
 	},
 	"dependencies": {},
-	"devDependencies": {
-		"chokidar-cli": "^2.0.0",
-		"style-dictionary": "^2.8.2"
-	},
 	"__metadata": {
 		"id": "Access Token Here",
 		"publisherDisplayName": "Hussein Kizz",
