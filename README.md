@@ -1,4 +1,4 @@
-# :city_sunset: Duotone Theme v2 Official
+# 🌆 Duotone Theme v2 Official
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/husseinkizz.duotone-theme-v2-official.svg?style=for-the-badge&colorA=462F86&colorB=40B873)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone-theme-v2-official)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/husseinkizz.duotone-theme-v2-official.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone-theme-v2-official)
