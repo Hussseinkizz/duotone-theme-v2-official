@@ -1,8 +1,8 @@
 # 🌆 Duotone Theme v2 Official
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/husseinkizz.duotone-theme-v2-official.svg?style=for-the-badge&colorA=462F86&colorB=40B873)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone-theme-v2-official)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/husseinkizz.duotone-theme-v2-official.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone-theme-v2-official)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/husseinkizz.duotone-theme-v2-official.svg?style=for-the-badge&colorA=88FF00&colorB=00FF00CC)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone-theme-v2-official)
+<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/husseinkizz.duotone.svg?style=for-the-badge&colorA=4B1E97&colorB=280E54)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/husseinkizz.duotone.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/husseinkizz.duotone.svg?style=for-the-badge&colorA=88FF00&colorB=00FF00CC)](https://marketplace.visualstudio.com/items?itemName=husseinkizz.duotone) -->
 
 ![Preview](https://raw.githubusercontent.com/Hussseinkizz/duotone-theme-v2-official/main/assets/Duotone%20Theme%20V2%20-%20Cover.png)
 
