@@ -1,0 +1,56 @@
+{
+	"name": "duotone-theme-v2-official",
+	"displayName": "Duotone Theme v2 Official",
+	"description": "🌆 Stylish, New, And Dark VScode Theme!",
+	"publisher": "husseinkizz",
+	"icon": "assets/icon.png",
+	"license": "MIT",
+	"version": "2.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Hussseinkizz/duotone"
+	},
+	"bugs": {
+		"url": "https://github.com/Hussseinkizz/duotone/issues"
+	},
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"scripts": {
+		"bundle": "vsce package",
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#0B1B33",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Duotone",
+		"Dark Theme",
+		"New Theme",
+		"Purple",
+		"Hussein Kizz"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Duotone Theme v2 Official",
+				"uiTheme": "vs-dark",
+				"path": "./themes/duotone-theme-v2-official.json"
+			}
+		]
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"chokidar-cli": "^2.0.0",
+		"style-dictionary": "^2.8.2"
+	},
+	"__metadata": {
+		"id": "Access Token Here",
+		"publisherDisplayName": "Hussein Kizz",
+		"publisherId": "husseinkizz"
+	}
+}

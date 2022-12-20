@@ -1,0 +1,100 @@
+// This File is mostly for dev purposes only!
+{
+  "workbench.colorTheme": "Duotone Theme v2 Official",
+  "editor.fontFamily": "Fira Code iScript",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {},
+  "window.zoomLevel": 2,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "bounded",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line-thin",
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderWhitespace": "none",
+    "files.autoSave": "onFocusChange",
+    "workbench.tree.indent": 4,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.rendererType": "dom",
+    "editor.quickSuggestions.comments": true,
+    "editor.suggestSelection": "first",
+    "breadcrumbs.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "helium-icon-theme",
+    "prettier.bracketSameLine": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.smoothScrolling": true,
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": [
+                // the following elements will be in italic
+                //   (=Fira Code iScript)
+                "comment",
+                "keyword.control.import.js", // import
+                "keyword.control.export.js", // export
+                "keyword.control.from.js", // from
+                // "constant", // String, Number, Boolean…, this, super
+                "storage.modifier", // static keyword
+                "storage.type.class", // class keyword
+                "storage.type.php", // typehints in methods keyword
+                "keyword.other.new.php", // new
+                "entity.other.attribute-name", // html attributes
+                "fenced_code.block.language.markdown" // markdown language modifier
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                // the following elements will be displayed in bold
+                "entity.name.type.class" // class names
+            ],
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                // the following elements will be displayed in bold and italic
+                "entity.name.section.markdown" // markdown headlines
+            ],
+            "settings": {
+                "fontStyle": "italic bold"
+            }
+        },
+        {
+            "scope": [
+                // the following elements will be excluded from italics
+                //   (VSCode has some defaults for italics)
+                "invalid",
+                "keyword.operator",
+                "constant.numeric.css",
+                "keyword.other.unit.px.css",
+                "constant.numeric.decimal.js",
+                "constant.numeric.json",
+                "comment.block",
+                "entity.other.attribute-name.class.css"
+            ],
+            "settings": {
+                "fontStyle": ""
+            }
+        }
+    ]
+}
+}

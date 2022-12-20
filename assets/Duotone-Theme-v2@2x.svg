@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="128" height="128" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#01225A" />
+    <g id="Group-2" transform="translate(19 18)" artboard="34d68116-4726-4cbb-b416-c78a39825c8c">
+      <g id="Logo" transform="translate(20 0)">
+        <path d="M22.9573 0L48.9573 9.86542L48.9573 53L22.9573 45.4668L22.9573 0Z" id="Rectangle" fill="#8924FD" fill-rule="evenodd" stroke="none" />
+        <path d="M4.76315 65.5462L22.8297 45.4813L48.9573 53.2125L31.4573 71.2125L4.76315 65.5462Z" id="Rectangle-2" fill="#7F11FC" fill-rule="evenodd" stroke="none" />
+        <path d="M23.5569 45.1577L4.75738 65.5001L4.1719 34.8026L23.5569 45.1577Z" id="Triangle" fill="#7002ED" fill-rule="evenodd" stroke="none" />
+        <path d="M23.1877 45.3458L3.95732 34.8594L23.1877 23.803L23.1877 45.3458Z" id="Triangle-Copy" fill="#5A05BA" fill-rule="evenodd" stroke="none" />
+        <g id="2" fill="#01225A" transform="matrix(0.9961947 0.08715568 -0.08715568 0.9961947 30.293182 13)">
+          <path d="M6.79102 6.039Q8.73633 6.039 10.0488 6.71869Q11.3613 7.39251 12.0176 8.50579Q12.6797 9.61908 12.6797 10.9257Q12.6797 11.9628 12.3281 12.9531Q11.9766 13.9433 11.1738 15.0449Q10.377 16.1464 9.05273 17.4882Q7.72852 18.83 5.7832 20.5644L13.0723 20.5644L12.6504 23.5292L1.31836 23.5292L1.31836 20.7695Q3.42188 18.7421 4.83984 17.2773Q6.26367 15.8124 7.11914 14.7519Q7.97461 13.6855 8.34375 12.8593Q8.71289 12.0331 8.71289 11.2714Q8.71289 10.2343 8.11523 9.63665Q7.51758 9.03314 6.42188 9.03314Q5.45508 9.03314 4.74023 9.43744Q4.02539 9.84173 3.35742 10.7558L0.972656 8.95697Q1.93359 7.62689 3.33398 6.83587Q4.74023 6.039 6.79102 6.039Z" />
+        </g>
+      </g>
+      <g id="Group" transform="translate(0 81)">
+        <path d="M5 0L6.46946 2.97746L9.75528 3.45491L7.37764 5.77254L7.93893 9.04508L5.00001 7.5L2.06109 9.04509L2.62236 5.77255L0.244711 3.45494L3.53053 2.97746L5 0Z" id="Star" fill="#C28DFF" fill-rule="evenodd" stroke="none" />
+        <path d="M25 0L26.4695 2.97746L29.7553 3.45491L27.3776 5.77254L27.9389 9.04508L25 7.5L22.0611 9.04509L22.6224 5.77255L20.2447 3.45494L23.5305 2.97746L25 0Z" id="Star-Copy" fill="#B9B9A1" fill-rule="evenodd" stroke="none" />
+        <path d="M45 0L46.4695 2.97746L49.7553 3.45491L47.3776 5.77254L47.9389 9.04508L45 7.5L42.0611 9.04509L42.6224 5.77255L40.2447 3.45494L43.5305 2.97746L45 0Z" id="Star-Copy-2" fill="#5FD379" fill-rule="evenodd" stroke="none" />
+        <path d="M65 0L66.4695 2.97746L69.7553 3.45491L67.3776 5.77254L67.9389 9.04508L65 7.5L62.0611 9.04509L62.6224 5.77255L60.2447 3.45494L63.5305 2.97746L65 0Z" id="Star-Copy-3" fill="#2DC8FE" fill-rule="evenodd" stroke="none" />
+        <path d="M85 0L86.4695 2.97746L89.7553 3.45491L87.3776 5.77254L87.9389 9.04508L85 7.5L82.0611 9.04509L82.6224 5.77255L80.2447 3.45494L83.5305 2.97746L85 0Z" id="Star-Copy-4" fill="#FF7B61" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

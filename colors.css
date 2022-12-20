@@ -1,0 +1,34 @@
+/* THIS FILE IS ONLY FOR DEV USE ONLY! */
+/* used for markup tag names eg. button, div etc */
+.goldish-color-2 {
+  color: #b9b9a1; /* replaced with #2dc8fe - done */
+}
+
+/* used for strings eg className prop values eg text-bold */
+.orange-color {
+  color: #ff7b61; /* replaced with #5fd379 - done */
+}
+/* used for bracket colorization */
+.blueish-color {
+  color: #2dc8fe;
+}
+/* used for custom */
+.blue-color {
+  color: #68a4e9; /* best blu variant */
+}
+/* used for opening and closing tags*/
+.muted-color {
+  color: #8693a3; /* replaced with #2dc8fe - done */
+}
+/* used for props eg children */
+.greenish-color {
+  color: #65cbc3; /* replaced with #ff7b61 - done */
+}
+/* used for keywords eg return, const */
+.pinkish-color {
+  color: #ff79c6; /* replaced with #c28dff - done */
+}
+/* used for classnames, href attributtes etc */
+.purple-color {
+  color: #c28dff; /* replaced with #b9b9a1 - done */
+}
